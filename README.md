@@ -1,5 +1,15 @@
 # 💫 About Me:
-🔭 I’m currently working on Google Forms-inspired Dynamic Form Builder project<br><br>👯 I’m looking to collaborate on Web Development and Open Source projects<br><br>🤝 I’m looking for help with Machine Learning and Data Science<br><br>🌱 I’m currently learning Data Structures & Algorithms and Data Science<br><br>💬 Ask me about React.js, TypeScript, Python, and UI Development<br><br>⚡ Fun fact: I started building projects in my first year of engineering and enjoy solving real-world problems through technology.
+🔭 Currently building dynamic web applications using React and TypeScript
+
+🌱 Learning Data Structures & Algorithms and Data Science
+
+👨‍💻 Interested in Software Development, Data Science, and AI
+
+🤝 Open to collaborations on Web Development projects
+
+💬 Ask me about React, Python, and Frontend Development
+
+⚡ Fun fact: I enjoy solving real-world problems through technology.
 
 
 ## 🌐 Socials:
